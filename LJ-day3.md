@@ -1,1 +1,1 @@
-Today is the third day and still am having hard time putting things in order, however I am starting to understand more js. Second guessing myself is what I am doing a lot of and it keeps me on edge. Plan on going home and doing a bunch of re-reading!
+Today is the third day and still am having hard time putting things in order, however I am starting to understand more javaScript. Second guessing myself is what I am doing a lot of and it keeps me on edge. Plan on going home and doing a bunch of re-reading!
